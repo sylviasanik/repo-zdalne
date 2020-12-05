@@ -1,2 +1,2 @@
-# test_repo
+# repo zdalne
 testowe repo
